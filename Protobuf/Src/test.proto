@@ -1,0 +1,8 @@
+syntax = "proto3";
+package kjcx;
+
+message helloworld
+{
+    int32 id = 1; // ID
+    string str = 2; // str
+}

@@ -1,0 +1,3 @@
+18-10-17 15:20:11:Exception at file[/www/wwwroot/es3/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code] line[3] message:[Call to undefined method EasySwoole\EasySwoole\ServerManager::getServer()]
+18-10-18 14:50:37:Exception at file[/www/wwwroot/es3/Application/ExceptionHandler.php] line[9] message:[Argument 2 passed to App\ExceptionHandler::handle() must be an instance of EasySwoole\Core\Http\Request, instance of EasySwoole\Http\Request given]
+18-10-18 14:50:58:Exception at file[/www/wwwroot/es3/Application/ExceptionHandler.php] line[9] message:[Argument 2 passed to App\ExceptionHandler::handle() must be an instance of EasySwoole\Core\Http\Request, instance of EasySwoole\Http\Request given]

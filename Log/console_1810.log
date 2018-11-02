@@ -1,0 +1,262 @@
+18-10-11 14:19:49:TrackerToken:3
+Attribute:
+	workerId:4
+Stack:
+
+18-10-11 14:20:43:TrackerToken:1avc
+Attribute:
+	workerId:4
+Stack:
+
+18-10-11 14:21:09:TrackerToken:1avc
+Attribute:
+	workerId:4
+Stack:
+jiesu
+18-10-11 14:30:51:TrackerToken:1
+Attribute:
+	workerId:4
+Stack:
+
+18-10-11 14:31:41:TrackerToken:1
+Attribute:
+	workerId:4
+Stack:
+
+18-10-11 14:32:53:TrackerToken:1
+Attribute:
+	workerId:4
+Stack:
+1
+18-10-11 14:33:02:TrackerToken:1
+Attribute:
+	workerId:4
+Stack:
+1
+18-10-11 14:33:25:TrackerToken:1
+Attribute:
+	workerId:4
+Stack:
+1
+18-10-11 14:46:22:TrackerToken:1
+Attribute:
+	workerId:4
+	user:用户名1
+	token:用户名token
+Stack:
+	#:
+	callerName:CurlBaiDu
+	category:default
+	status:SUCCESS
+	startTime:1539240382.2845
+	takeTime:0.217
+	file:/www/wwwroot/es3/Application/HttpController/Trace.php
+	line:24
+	startArgs:"wd=easyswoole"
+	endArgs:null
+
+	#:
+	callerName:CurlBaiDu2
+	category:default
+	status:FAIL
+	startTime:1539240382.5019
+	takeTime:0.121
+	file:/www/wwwroot/es3/Application/HttpController/Trace.php
+	line:28
+	startArgs:"wd=easyswoole"
+	endArgs:"curl失败了"
+
+
+18-10-11 14:46:23:TrackerToken:2
+Attribute:
+	workerId:4
+	user:用户名1
+	token:用户名token
+Stack:
+	#:
+	callerName:CurlBaiDu
+	category:default
+	status:SUCCESS
+	startTime:1539240382.8101
+	takeTime:0.175
+	file:/www/wwwroot/es3/Application/HttpController/Trace.php
+	line:24
+	startArgs:"wd=easyswoole"
+	endArgs:null
+
+	#:
+	callerName:CurlBaiDu2
+	category:default
+	status:FAIL
+	startTime:1539240382.9849
+	takeTime:0.164
+	file:/www/wwwroot/es3/Application/HttpController/Trace.php
+	line:28
+	startArgs:"wd=easyswoole"
+	endArgs:"curl失败了"
+
+
+18-10-11 14:58:03:TrackerToken:1
+Attribute:
+	workerId:4
+	user:用户名1
+	token:用户名token2
+Stack:
+	#:
+	callerName:CurlBaiDu
+	category:default
+	status:SUCCESS
+	startTime:1539241083.1968
+	takeTime:0.14
+	file:/www/wwwroot/es3/Application/HttpController/Trace.php
+	line:26
+	startArgs:"wd=easyswoole"
+	endArgs:null
+
+	#:
+	callerName:CurlBaiDu2
+	category:default
+	status:FAIL
+	startTime:1539241083.3364
+	takeTime:0.139
+	file:/www/wwwroot/es3/Application/HttpController/Trace.php
+	line:30
+	startArgs:"wd=easyswoole"
+	endArgs:"curl失败了"
+
+
+18-10-11 15:13:03:TrackerToken:1
+Attribute:
+	workerId:4
+	user:用户名1
+	token:用户名token2
+Stack:
+	#:
+	callerName:CurlBaiDu
+	category:default
+	status:SUCCESS
+	startTime:1539241983.2633
+	takeTime:0.152
+	file:/www/wwwroot/es3/Application/HttpController/Trace.php
+	line:26
+	startArgs:"wd=easyswoole"
+	endArgs:null
+
+	#:
+	callerName:CurlBaiDu2
+	category:default
+	status:FAIL
+	startTime:1539241983.4148
+	takeTime:0.232
+	file:/www/wwwroot/es3/Application/HttpController/Trace.php
+	line:30
+	startArgs:"wd=easyswoole"
+	endArgs:"curl失败了"
+
+
+18-10-12 09:46:45:TrackerToken:1
+Attribute:
+	workerId:4
+Stack:
+
+18-10-12 09:46:46:TrackerToken:3
+Attribute:
+	workerId:4
+Stack:
+
+18-10-12 09:46:47:TrackerToken:5
+Attribute:
+	workerId:4
+Stack:
+
+18-10-12 09:47:25:TrackerToken:1
+Attribute:
+	workerId:4
+Stack:
+
+18-10-12 09:47:25:TrackerToken:3
+Attribute:
+	workerId:4
+Stack:
+
+18-10-12 09:47:26:TrackerToken:5
+Attribute:
+	workerId:4
+Stack:
+
+18-10-12 09:47:26:TrackerToken:7
+Attribute:
+	workerId:4
+Stack:
+
+18-10-12 09:47:26:TrackerToken:9
+Attribute:
+	workerId:4
+Stack:
+
+18-10-12 09:47:26:TrackerToken:11
+Attribute:
+	workerId:4
+Stack:
+
+18-10-12 09:47:26:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"OjA6Q3nc4e"}
+18-10-12 09:47:26:TrackerToken:13
+Attribute:
+	workerId:4
+Stack:
+
+18-10-12 09:47:26:TrackerToken:15
+Attribute:
+	workerId:4
+Stack:
+
+18-10-12 09:47:27:TrackerToken:17
+Attribute:
+	workerId:4
+Stack:
+
+18-10-12 09:50:24:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"ztQmbrfWHV"}
+18-10-12 09:50:24:TrackerToken:1
+Attribute:
+	workerId:1
+Stack:
+
+18-10-12 09:50:59:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"jtTPBwvJ2V"}
+18-10-12 09:50:59:TrackerToken:1
+Attribute:
+	workerId:1
+Stack:
+
+18-10-12 09:51:27:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"3wbx1Ogpca"}
+18-10-12 09:51:27:TrackerToken:1
+Attribute:
+	workerId:1
+Stack:
+
+18-10-12 09:51:46:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"Ir2f3AMHxY"}
+18-10-12 09:51:46:TrackerToken:1
+Attribute:
+	workerId:1
+Stack:
+
+18-10-12 09:52:08:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"Vr8fTF5HhK"}
+18-10-12 09:52:08:TrackerToken:1
+Attribute:
+	workerId:1
+Stack:
+
+18-10-12 09:52:15:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"jnRSaCFTV5"}
+18-10-12 09:52:15:TrackerToken:3
+Attribute:
+	workerId:1
+Stack:
+
+18-10-12 09:52:18:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"wnGjB6kJmP"}
+18-10-12 09:52:31:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"PsrTVqdDY0"}
+18-10-12 09:52:40:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"d7uxrScyXK"}
+18-10-12 10:14:34:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"TjQWEAsiaB"}
+18-10-12 10:14:35:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"2xkCByHG1V"}
+18-10-12 10:15:50:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"EFgxkd28qe"}
+18-10-12 10:16:00:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"KSsvtF8bPn"}
+18-10-12 10:16:06:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"r5uIn8olJh"}
+18-10-12 10:17:33:{"status":"SERVICE_TIMEOUT","result":null,"message":null,"responseId":"Ci7zSfWKOq"}

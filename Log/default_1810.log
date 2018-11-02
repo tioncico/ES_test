@@ -1,0 +1,122 @@
+18-10-29 09:09:16:TrackerToken:2
+Attribute:
+	workerId:4
+Stack:
+	#:
+	pointName:CurlBaiDu
+	pointCategory:test1
+	pointStatus:SUCCESS
+	pointStartTime:1540775356.3765
+	pointTakeTime:0
+	pointFile:/www/wwwroot/es3/Application/HttpController/Trace.php
+	pointLine:21
+	pointStartArgs:{"wd":"easyswoole"}
+	pointEndArgs:{"msg":"调用成功1540775356"}
+
+
+18-10-29 09:09:39:TrackerToken:2
+Attribute:
+	workerId:4
+Stack:
+	#:
+	pointName:CurlBaiDu
+	pointCategory:test1
+	pointStatus:SUCCESS
+	pointStartTime:1540775379.5904
+	pointTakeTime:0
+	pointFile:/www/wwwroot/es3/Application/HttpController/Trace.php
+	pointLine:21
+	pointStartArgs:{"wd":"easyswoole"}
+	pointEndArgs:{"msg":"调用成功1540775379"}
+
+
+18-10-29 09:21:05:TrackerToken:2
+Attribute:
+	workerId:4
+Stack:
+
+18-10-29 09:21:22:TrackerToken:2
+Attribute:
+	workerId:4
+Stack:
+
+18-10-29 09:21:45:TrackerToken:2
+Attribute:
+	workerId:4
+Stack:
+
+18-10-29 09:22:49:TrackerToken:2
+Attribute:
+	workerId:4
+Stack:
+
+18-10-29 09:23:26:TrackerToken:2
+Attribute:
+	workerId:4
+Stack:
+	#:
+	pointName:查询用户余额
+	pointCategory:default
+	pointStatus:SUCCESS
+	pointStartTime:1540776206.9136
+	pointTakeTime:0.0034
+	pointFile:/www/wwwroot/es3/Application/HttpController/Trace.php
+	pointLine:24
+	pointStartArgs:{"sql":"sql statement one"}
+	pointEndArgs:["调用成功"]
+
+
+18-10-29 09:26:12:TrackerToken:2
+Attribute:
+	workerId:4
+Stack:
+	#:
+	pointName:查询用户订单
+	pointCategory:default
+	pointStatus:FAIL
+	pointStartTime:1540776371.9777
+	pointTakeTime:1.0012
+	pointFile:/www/wwwroot/es3/Application/HttpController/Trace.php
+	pointLine:24
+	pointStartArgs:{"sql":"sql statement one"}
+	pointEndArgs:["查询失败"]
+
+
+18-10-29 09:30:40:TrackerToken:2
+Attribute:
+	workerId:4
+Stack:
+
+18-10-29 09:30:50:TrackerToken:2
+Attribute:
+	workerId:4
+	user:用户名1
+	name:这是昵称
+Stack:
+	#:
+	pointName:查询用户订单
+	pointCategory:default
+	pointStatus:FAIL
+	pointStartTime:1540776649.2616
+	pointTakeTime:1.0008
+	pointFile:/www/wwwroot/es3/Application/HttpController/Trace.php
+	pointLine:28
+	pointStartArgs:{"sql":"sql statement one"}
+	pointEndArgs:["查询失败"]
+
+
+18-10-30 12:23:09:TrackerToken:2
+Attribute:
+	workerId:3
+Stack:
+
+18-10-30 12:23:09:TrackerToken:3
+Attribute:
+	workerId:3
+Stack:
+
+18-10-30 12:23:31:TrackerToken:4
+Attribute:
+	workerId:3
+Stack:
+
